@@ -1,4 +1,4 @@
 !*.tex
 !tate.sty
-*.out
+*.out/
 !out/*.pdf
