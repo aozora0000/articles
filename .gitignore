@@ -2,3 +2,5 @@
 !tate.sty
 *.out/
 !out/*.pdf
+node_modules
+*_temp.tex
